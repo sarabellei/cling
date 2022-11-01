@@ -29,14 +29,14 @@ Table of Contents
    
     chapters/background
     chapters/interactivity
+     chapters/why_interpreting
     chapters/implementation
     chapters/REPL
-    chapters/XEUS
-    chapters/cudaC++
     chapters/grammar
-    chapters/references
+    chapters/applications
     chapters/conclusion
-    chapters/why_interpreting
+    chapters/references
+   
 
 .. note::
 
