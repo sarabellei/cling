@@ -65,6 +65,6 @@ Cancels the multiline input;
 
    .dynamicExtensions
 
-Turns on cling's dynamic extensions. This in turn enables the dynamic lookup and
-the late resolving of the identifier. With that option cling tries to heal the
+Turns on Cling's dynamic extensions. This in turn enables the dynamic lookup and
+the late resolving of the identifier. With that option Cling tries to heal the
 compile-time failed lookups at runtime.
