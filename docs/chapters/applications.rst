@@ -2,7 +2,7 @@ Applications
 ------------------------------------
 
 
-C++ in Jupyter Notebook - Xeus Cling
+1. C++ in Jupyter Notebook - Xeus Cling
 
 The Jupyter Notebook technology allows users to create and share documents that
 contain live code, equations, visualizations and narrative text. It enables data
@@ -15,15 +15,13 @@ rich content such as images, therefore bringing more interactivity into the
 Jupyter’s world.
 
 
-Interactive CUDA C++ with Cling 
+2. Interactive CUDA C++ with Cling 
 
-The Cling CUDA extension brings the workflows of interactive C++ to GPUs,
-without losing performance and compatibility to existing software.  Through this
-extension, C++ and CUDA can be used interactively on the target machine,
-allowing for optimization for particular models of accelerator hardware. The
-extension can be run on a Jupyter setup. Cling CUDA found application in the
-field of modeling of high-energy particles and radiation produced by high-energy
-laser facilities. In this framework, Cling CUDA allows for an interactive
-approach which enables relaunching only a wanted part of a simulation, starting
-from a given point which can be decided by the user.
+   https://blogs.nvidia.com/blog/2012/09/10/what-is-cuda-2/
+CUDA is a platform and Application Programming Interface (API) created by NVIDIA. It controls GPU (Graphical Processing Unit) for parallel programming,  enabling developers to harness the power of graphic processing units (GPUs) to speed up applications. As an example, PIConGPU is a CUDA-based plasma      physics application to solve the dynamics of a plasma by computing the motion of electrons and ions in the plasma field. 
+Interactive GPU programming was made possible by extending Cling functionality to compile CUDA C++ code. The new Cling-CUDA C++ can be used on Jupyter Notebook platform, and enables big, interactive simulation with GPUs, easy GPU development and debugging, and effective GPU programming learning. 
+Teaching GPU programming. More information can be found 
+
+
+
 
