@@ -17,5 +17,8 @@ Interactive GPU programming was made possible by extending Cling functionality t
 Teaching GPU programming.
 
 
+3. CLion
 
+4. music Cling
 
+5. Clad
