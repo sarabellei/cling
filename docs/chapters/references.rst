@@ -45,12 +45,18 @@ Literature
    * - `Cling -- Beyond Just Interpreting C++ <https://blog.llvm.org/posts/2021-03-25-cling-beyond-just-interpreting-cpp/>`_
      - *Vassil Vassilev* 2021 The LLVM Project Blog
      - This blog page discusses how Cling enables template Instantiation on demand, language interoperability on demand, interpreter/compiler as a service, plugins extension.
+   * - `TinySpec-Cling <https://github.com/nwoeanhinnogaehr/tinyspec-cling>`_
+     - Noah Weninger 2020
+     - A tiny C++ live-coded overlap-add (re)synthesizer for Linux, which uses Cling to add REPL-like functionality for C++ code.
    * - `Interactive C++ for Data Science <https://blog.llvm.org/posts/2020-12-21-interactive-cpp-for-data-science/>`_
      - *Vassil Vassilev,* *David Lange,* *Simeon Ehrig,* *Sylvain Corlay* 2020 The LLVM Project Blog
      - Cling enables eval-style programming for Data Science applications. Examples of ROOT and Xeus-Cling for data science are shown.
    * - `Interactive C++ with Cling <https://blog.llvm.org/posts/2020-11-30-interactive-cpp-with-cling/>`_
      - *Vassil Vassilev* 2020 The LLVM Project Blog
      - This blog page briefly discusses the concept of interactive C++ by presenting Cling’s main features, such as wrapper functions, entity redefinition, error recovery. 
+   * - `Using the Cling C++ Interpreter on the Bela Platform <https://gist.github.com/jarmitage/6e411ae8746c04d6ecbee1cbc1ebdcd4>`_
+     - Jack Armitage 2019
+     - Cling has been installed on a BeagleBoard to bring live coding to the Bela interactive audio platform.
    * - `Implementation of GlobalModuleIndex in ROOT and Cling <https://indico.cern.ch/event/840376/contributions/3525646/attachments/1895398/3127159/GSoC_Presentation__GMI.pdf>`_
      - *Arpitha Raghunandan* 2012 Google Summer of Code GSoC
      - GlobalModuleIndex can be used for improving ROOT’s and Cling’s performance 
