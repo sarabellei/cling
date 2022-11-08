@@ -16,7 +16,7 @@ Interactive GPU programming was made possible by extending Cling functionality t
 
 3. **Clad:**
 
-Should we write about Clad? Should we consider it still as a plugin for Cling, or for Clang?
+`Clad <https://compiler-research.org/clad/>`_ enables automatic differentiation (AD) for C++. It was first developed as a plugin for Cling, and is now a plugin for Clang compiler. Clad is based on source code transformation. Given C++ source code of a mathematical function, it can automatically generate C++ code for computing derivatives of the function. It supports both forward-mode and reverse-mode AD.
 
 4. **Cling for live coding music and musical instruments:**
 
